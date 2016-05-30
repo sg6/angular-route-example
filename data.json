@@ -1,0 +1,46 @@
+[
+	{
+		"id"   : 1,
+		"name" : "Stefan",
+		"address" : {
+			"street" : "Xyz 1234",
+			"zip" : "1100",
+			"city" : "Wien"
+		},
+		"profession" : "Angular developer"
+
+	},
+	{
+		"id"   : 2,
+		"name" : "Dorian",
+		"address" : {
+			"street" : "Hoechstaedtplatz 1234",
+			"zip" : "1200",
+			"city" : "Wien"
+		},
+		"profession" : "Teacher"
+
+	},
+	{
+		"id"   : 3,
+		"name" : "Hanna",
+		"address" : {
+			"street" : "Penthouse 321",
+			"zip" : "1010",
+			"city" : "Wien"
+		},
+		"profession" : "Angular student"
+
+	},
+	{
+		"id"   : 4,
+		"name" : "Heidi",
+		"address" : {
+			"street" : "Almstreet 444",
+			"zip" : "6060",
+			"city" : "Salzburg"
+		},
+		"profession" : "Angular farmer"
+
+	}
+]

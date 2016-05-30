@@ -1,0 +1,14 @@
+<div class="row person" ng-repeat="p in persons">
+	<div class="col-md-2">
+		<a href="#/list/{{ p.id }}" class="btn btn-success">{{ p.id }} &gt;&gt; goto</a>
+	</div>
+	<div class="col-md-3">
+		{{ p.name }}
+	</div>
+	<div class="col-md-4">
+		{{ p.address.street }}, {{ p.address.zip }} {{ p.address.city }} <br /> <br />
+	</div>
+	<div class="col-md-3">
+		{{ p.profession }}
+	</div>
+</div>
